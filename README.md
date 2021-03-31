@@ -1,5 +1,5 @@
 # bus-reservation-system
-It is a simple desktop application developed in CodeBlocks compiler in Windows using C++ language.
+It is a desktop application developed in CodeBlocks compiler in Windows using C++ language.
 
 This project mainly uses the concept of classes and objects, and file handling. A binary file 'Buses_record.dat' is created
 when the user enters a new bus for the first time. Whenever the user enters a new bus, a method of the class is called and
